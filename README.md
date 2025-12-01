@@ -16,7 +16,7 @@ A lightweight Windows tool that records your mouse movements, clicks, and scroll
 
 ⚡ Super lightweight & fast
 
-⭐ And yes — makes your mouse dance while you grab a coffee ☕😉
+⭐ And yes, makes your mouse dance while you grab a coffee ☕😉
 
 
 🔓 **Included With Premium Access on Patreon**
