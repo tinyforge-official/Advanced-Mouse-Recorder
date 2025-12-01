@@ -16,31 +16,18 @@ A lightweight Windows tool that records your mouse movements, clicks, and scroll
 
 ⚡ Super lightweight & fast
 
-🧠 Great for:
-
-Automating repetitive work tasks
-
-Testing UI workflows
-
-Simple game automation (within rules)
-
-Data entry shortcuts
-
-Workflow macros
-
-Repeating long mouse sequences
-
 ⭐ And yes — makes your mouse dance while you grab a coffee ☕😉
 
-🔓 Included With Premium Access
+
+🔓 **Included With Premium Access on Patreon**
 
 Premium Patreon members get:
 
-Full version download
+• Full version download
 
-Future updates
+• Future updates
 
-Early feature access
+• Early feature access
 
-All TinyForge premium tools
+• All TinyForge premium tools
 
